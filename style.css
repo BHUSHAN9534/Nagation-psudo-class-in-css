@@ -1,0 +1,6 @@
+input[type=taxt] {background: red;}
+:target{background:yellow;}
+a:hover{color:green;}
+input:disabled{background: pink;}
+input:enabled{background: yellow;}
+p:not(.sc){color:red;}
